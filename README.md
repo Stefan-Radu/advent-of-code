@@ -1,1 +1,4 @@
-# advent-of-code-2023
+# advent-of-code
+
+my struggle with advent of code (in haskell atm)
+
